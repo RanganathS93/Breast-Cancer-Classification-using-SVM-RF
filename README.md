@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification-using-SVM-RF
 
-We are trying to predict whether a person has cancer or not based on many medical features.
+We are trying to predict whether a person has breast cancer or not based on many medical features.
 
 Import the Libraries
 
@@ -12,7 +12,7 @@ Categorical Encoding
 
 Train Test Split
 
-Implement DSVM and Random Forest Models
+Implement SVM and Random Forest Models
 
 Implement Grid Search CV to find out the best parameters
 
